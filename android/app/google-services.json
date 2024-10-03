@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "663254522231",
+    "firebase_url": "https://defcon-8786c-default-rtdb.firebaseio.com",
+    "project_id": "defcon-8786c",
+    "storage_bucket": "defcon-8786c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663254522231:android:be5dcba024ba4c5f9ee972",
+        "android_client_info": {
+          "package_name": "com.example.defcon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjsA_-dsOdbgdxMRyTTVaZ-uDnt3x7IEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

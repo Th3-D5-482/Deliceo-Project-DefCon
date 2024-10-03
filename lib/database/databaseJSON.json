@@ -1,0 +1,117 @@
+{
+  "Categories": [
+    {
+      "categoryName": "Burgers",
+      "id": 0,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Category%2Fcat_burger.png?alt=media&token=a853452a-6949-4804-9433-a89e6a573956"
+    },
+    {
+      "categoryName": "Drinks",
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Category%2Fcat_drink.png?alt=media&token=5c3ddfe3-4414-47e7-b080-dc54de13f2e8"
+    },
+    {
+      "categoryName": "Pizzas",
+      "id": 2,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Category%2Fcat_pizza.png?alt=media&token=44638399-9bdd-4bb9-bf6a-d8590cfe45ef"
+    }
+  ],
+  "Foods": [
+    {
+      "catID": 0,
+      "description": "Indulge in our mouth-watering Cheese Burger, a timeless classic that never disappoints. This savory delight features a juicy, perfectly seasoned beef patty, topped with a generous slice of melted cheese. Nestled in a soft, toasted bun, it’s complemented by fresh lettuce, ripe tomatoes, crunchy pickles, and a hint of onions. Finished with a drizzle of our signature sauce, every bite is a burst of flavor that will leave you craving more. Perfect for any meal, our Cheese Burger is a must-try for all burger lovers!",
+      "foodName": "Cheese Burger",
+      "id": 0,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Burgers%2FcheeseBurger.png?alt=media&token=1d90fe0e-9423-4c72-8bfe-e9ed036d1130",
+      "price": 8.99
+    },
+    {
+      "catID": 0,
+      "description": "Savor the ultimate Bacon Burger experience! Our Bacon Burger features a succulent, perfectly grilled beef patty, crowned with crispy, smoky bacon strips. Nestled in a soft, toasted bun, it’s layered with fresh lettuce, juicy tomatoes, and tangy pickles. A hint of onions adds a subtle bite, while melted cheese brings everything together. Finished with a drizzle of our special sauce, each bite is a symphony of savory goodness. Whether you’re a bacon lover or a burger enthusiast, our Bacon Burger is a must-try that will leave you coming back for more!",
+      "foodName": "Bacon Burger",
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Burgers%2FbaconBurger.png?alt=media&token=e6d738c5-db3e-47c1-aa84-836fe3af1527",
+      "price": 10.49
+    },
+    {
+      "catID": 0,
+      "description": "Experience the vibrant flavors of our Veggie Burger! This plant-based delight features a savory patty made from fresh vegetables, grains, and aromatic spices. Nestled in a soft, toasted whole-grain bun, it’s topped with crisp lettuce, juicy tomatoes, and tangy pickles. A hint of red onions adds a zesty crunch, while creamy avocado provides a rich texture. Finished with a drizzle of zesty herb sauce, each bite is a celebration of fresh, natural flavors. Whether you’re a vegetarian or exploring new tastes, our Veggie Burger is a delicious choice that will leave you feeling nourished and delighted!",
+      "foodName": "Veggie Burger",
+      "id": 2,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Burgers%2FvegieBurger.png?alt=media&token=44472520-397e-4a47-b119-5900c8d3582c",
+      "price": 7.99
+    },
+    {
+      "catID": 0,
+      "description": "Ignite your taste buds with our Jalapeno Burger! This fiery delight features a juicy, grilled beef patty topped with spicy, pickled jalapenos. Nestled in a soft, toasted brioche bun, it’s complemented by crisp lettuce, ripe tomatoes, and tangy pickles. Pepper jack cheese melts over the patty, enhancing the spicy flavors, and a drizzle of creamy chipotle sauce finishes it off. Each bite is a bold explosion of taste. Whether you’re a spice enthusiast or just looking to try something new, our Jalapeno Burger promises a memorable, mouth-watering experience!",
+      "foodName": "Jalapeño Burger",
+      "id": 3,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Burgers%2FjalapenoBurger.png?alt=media&token=19b436ba-bc45-4a26-9d94-633aac39aa91",
+      "price": 9.49
+    },
+    {
+      "catID": 1,
+      "description": "Experience the refreshing taste of our Berry Smoothie, a delightful blend of nature's finest berries. This vibrant smoothie combines the sweetness of ripe strawberries, the tartness of raspberries, and the bold flavor of blueberries, all blended to perfection. Enhanced with creamy Greek yogurt and a splash of almond milk, it’s a nutritious and delicious treat. Whether you're starting your day or need a midday pick-me-up, our Berry Smoothie is the perfect choice for a burst of energy and flavor. Enjoy the natural goodness in every sip!",
+      "foodName": "Berry Smoothie",
+      "id": 4,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Drinks%2FberrySmoothie.png?alt=media&token=4dcfb362-ebb7-44e7-b23f-9fd62f6a16ec",
+      "price": 4.99
+    },
+    {
+      "catID": 1,
+      "description": "Cool down with our invigorating Iced Coffee! This delightful blend of rich, aromatic coffee and refreshing ice offers a smooth, bold flavor. Served over ice with a splash of creamy milk and a hint of sweetness, it creates a harmonious balance of flavors. For an extra twist, try it with vanilla or caramel syrup. Whether you need a pick-me-up or a refreshing treat, our Iced Coffee is the perfect choice to keep you cool and energized. Sip, savor, and enjoy!",
+      "foodName": "Iced Coffee",
+      "id": 5,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Drinks%2FicedCoffee.png?alt=media&token=cad88398-58d5-4630-b60a-4337e281051a",
+      "price": 3.49
+    },
+    {
+      "catID": 1,
+      "description": "Quench your thirst with our revitalizing Fresh Lemonade! This delightful blend of zesty lemons and crisp water is hand-squeezed to capture vibrant citrus flavor. Sweetened just right to balance tangy notes, it creates a harmonious and invigorating taste. Served over ice, it’s the ultimate cool-down beverage. For an extra twist, try it with mint or berry syrup. Whether you’re lounging by the pool or enjoying a picnic, our Fresh Lemonade is the perfect companion to brighten your day!",
+      "foodName": "Fresh Lemonade",
+      "id": 6,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Drinks%2FfreshLemonade.png?alt=media&token=2eabda88-7a70-4382-a0a7-3658b645d64d",
+      "price": 2.99
+    },
+    {
+      "catID": 1,
+      "description": "Enjoy the timeless taste of our Classic Cola! Perfect for any occasion, this refreshing beverage never goes out of style. With its bold flavor and perfect balance of sweetness and fizz, it satisfies your thirst and delights your taste buds. Served chilled over ice, it offers a crisp, refreshing experience with every sip. Whether paired with a meal or enjoyed on its own, our Classic Cola keeps you cool and refreshed. For an extra twist, try it with a slice of lemon or a splash of cherry syrup. Sip, savor, and enjoy!",
+      "foodName": "Classic Cola",
+      "id": 7,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Drinks%2FclassicCola.png?alt=media&token=5f310e56-213d-498e-b83d-f0f3a4fb56bc",
+      "price": 1.99
+    },
+    {
+      "catID": 2,
+      "description": "Savor the simplicity and elegance of our Margherita Pizza, a true Italian classic. This pizza features a thin, crispy crust topped with hand-crushed tomatoes, fresh mozzarella, and fragrant basil leaves. Drizzled with extra virgin olive oil and lightly seasoned, each bite offers a perfect balance of flavors. Whether you're a pizza aficionado or trying it for the first time, our Margherita Pizza is a delightful experience that captures the essence of traditional Italian cuisine. Perfect for any occasion, it's a must-try for all pizza lovers!",
+      "foodName": "Margherita Pizza",
+      "id": 8,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Pizzas%2FmargheritaPizza.png?alt=media&token=100dfd50-cb82-4a60-8d6d-752e049925b4",
+      "price": 12.99
+    },
+    {
+      "catID": 2,
+      "description": "Indulge in our Pepperoni Pizza! This classic features a golden, crispy crust, rich tomato sauce, and a blend of melted mozzarella and cheddar cheeses. The star is the pepperoni—thinly sliced and cooked to crispy perfection, adding a savory, slightly spicy kick. Finished with Italian herbs and a drizzle of olive oil, each slice bursts with flavor. Whether with friends or solo, our Pepperoni Pizza promises a satisfying and delicious experience!",
+      "foodName": "Pepperoni Pizza",
+      "id": 9,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Pizzas%2FpepperoniPizza.png?alt=media&token=6b53666a-60f3-4d3b-adb9-22a29b7d2577",
+      "price": 14.49
+    },
+    {
+      "catID": 2,
+      "description": "Enjoy the timeless taste of our Classic Cola! Perfect for any occasion, this refreshing beverage never goes out of style. With its bold flavor and perfect balance of sweetness and fizz, it satisfies your thirst and delights your taste buds. Served chilled over ice, it offers a crisp, refreshing experience with every sip. Whether paired with a meal or enjoyed on its own, our Classic Cola keeps you cool and refreshed. For an extra twist, try it with a slice of lemon or a splash of cherry syrup. Sip, savor, and enjoy!",
+      "foodName": "Veggie Pizza",
+      "id": 10,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Pizzas%2FveggiePizza.png?alt=media&token=acb3ce5b-520f-4d95-b222-eb92c62cebcd",
+      "price": 13.99
+    },
+    {
+      "catID": 2,
+      "description": "Savor the smoky goodness of our BBQ Pizza! This delight features a golden, crispy crust topped with rich, tangy barbecue sauce and melted mozzarella and cheddar cheeses. The highlight is the tender, smoky barbecue chicken, complemented by crunchy red onions and sweet roasted bell peppers. Finished with fresh cilantro, each slice bursts with savory and sweet flavors. Whether you’re a barbecue enthusiast or just looking to try something new, our BBQ Pizza promises a satisfying and delicious experience!",
+      "foodName": "BBQ Pizza",
+      "id": 11,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/defcon-8786c.appspot.com/o/Pizzas%2FbbqPizza.png?alt=media&token=3d41bc37-3a51-4a4f-923a-ccce878f8fba",
+      "price": 15.49
+    }
+  ]
+}
