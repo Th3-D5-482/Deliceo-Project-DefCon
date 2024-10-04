@@ -36,7 +36,7 @@ Deliceo is a food app designed to provide users with a seamless experience in di
 - **Profile**: Users can view their profile, update their password, or sign out of the application.
 
 ### Acknowledgment
-Special Thanks: This app was inspired by the work of Rauliqbal, whose creativity and innovation greatly influenced its design.
+Special Thanks: This app was inspired by the work of <a href ='https://www.figma.com/@Rauliqbal'> Rauliqbal </a>, whose creativity and innovation greatly influenced its design.
 
 ### Conclusion
 Deliceo aims to provide a user-friendly interface for food enthusiasts to explore and manage their favorite food items efficiently. With features like user authentication, detailed food descriptions, and easy navigation, Deliceo ensures a delightful user experience.
