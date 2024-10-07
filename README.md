@@ -1,9 +1,9 @@
-# Deliceo (Project: Defcon)
+# Déliceo (Project: Defcon)
 
 ## Created by Th3_D5_482 
 
 ### Overview
-Deliceo is a food app designed to provide users with a seamless experience in discovering, viewing, and managing their favorite food items. Users can create an account and sign in to access a variety of features. Once logged in, they can explore a wide range of food options, categorized for easy navigation. The app offers personalized recommendations, popular items, and detailed descriptions, ensuring users can find exactly what they’re craving. With intuitive search functionality and a user-friendly interface, Deliceo makes it easy to add items to a cart or favorites list, enhancing the overall user experience.
+Déliceo is a food app designed to provide users with a seamless experience in discovering, viewing, and managing their favorite food items. Users can create an account and sign in to access a variety of features. Once logged in, they can explore a wide range of food options, categorized for easy navigation. The app offers personalized recommendations, popular items, and detailed descriptions, ensuring users can find exactly what they’re craving. With intuitive search functionality and a user-friendly interface, Déliceo makes it easy to add items to a cart or favorites list, enhancing the overall user experience.
 
 ### Technologies Used
 - **Flutter**: The app is built using Flutter, a UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -39,5 +39,5 @@ Deliceo is a food app designed to provide users with a seamless experience in di
 Special Thanks: This app was inspired by the work of <a href ='https://www.figma.com/@Rauliqbal'> Rauliqbal </a>, whose creativity and innovation greatly influenced its design and functionality.
 
 ### Conclusion
-Deliceo aims to provide a user-friendly interface for food enthusiasts to explore and manage their favorite food items efficiently. With features like user authentication, detailed food descriptions, and easy navigation, Deliceo ensures a delightful user experience.
+Déliceo aims to provide a user-friendly interface for food enthusiasts to explore and manage their favorite food items efficiently. With features like user authentication, detailed food descriptions, and easy navigation, Déliceo ensures a delightful user experience.
 
