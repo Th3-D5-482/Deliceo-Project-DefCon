@@ -1,4 +1,4 @@
-# Project DefCon: Deliceo
+# Deliceo (Project: Defcon)
 
 ## Created by Th3_D5_482 
 
